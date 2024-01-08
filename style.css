@@ -91,3 +91,52 @@ h2 {
     width: 800px;
     height: 500px;
 }
+
+
+
+
+#party
+{
+    width: 1320px;
+    margin: 100px auto;
+    display: flex;
+    height: 600px;
+ 
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('images/Vectorrr.png');
+    background-size: cover;
+    background-position: center;
+    justify-content: space-around;
+    border-radius: 16px;
+    align-items: center;
+}
+
+#party .content-all
+{
+    margin-left: -80px;
+}
+#party .content-all h1{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 54px;
+    font-style: normal; 
+    font-weight: 800;
+    line-height:auto;
+    letter-spacing: auto;
+}
+#party .content-all p{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: auto;
+}
+#party .content-all btn{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
