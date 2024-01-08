@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+header {
+    background-image: url('images/banner.png');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    display: flex;
+    width: 90%;
+    margin: 80px auto;
+    background-position: center;
+    align-items: center;
+    border-radius: 16px;
+    
+}
+
+.banner {
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    display: flex;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    align-items: center;
+}
+
+.banner .banner-text {
+    text-align: center;
+    margin: 0 auto;
+}
+h2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.banner .banner-text h4 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
