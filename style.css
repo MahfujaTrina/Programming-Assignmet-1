@@ -271,6 +271,77 @@ h2 {
 
 
 
+#gift {
+
+    margin: 100px auto;
+    background-color: #fff;
+    text-align: center; 
+    width: 1320px;
+    height: 700px;
+   
+}
+
+
+#gift .content-gift {
+    padding-top: 50px;
+}
+
+#gift .content-gift h3 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500px;
+    line-height: normal;  
+    text-align: left;
+}
+
+#gift .content-gift h1 {
+    color: #070211;
+    text-align: left;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900px;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+#gift  .content-gift p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: left;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400px;
+ 
+}
+
+#gift .image
+{
+    display: flex;
+    position: absolute;
+    width: 310px;
+    height: 340px;
+    justify-content: flex-start;
+    align-items: left;
+    border-radius: 16px;  
+}
+
+#gift .image img {
+    width: 424px;
+    height: 450px;
+    margin-right: 40px; 
+    border-radius: 16px;
+    
+}
+
+#gift .image img:hover {
+    transform: scale(1.2); 
+    opacity: 0.8;
+}
+
+
 #subs
 {
     width: 1320px;
