@@ -49,3 +49,45 @@ h2 {
     font-weight: 400;
     line-height: normal;
 }
+
+
+
+
+#catagory
+{
+    width: 800px;
+    margin: 100px auto;
+    text-align: center;
+}
+#catagory .catagory-hny h1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+#catagory .catagory-hny h3
+{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+}
+#catagory .catagory-hny h4
+{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+}
+#catagory .catagory-hny img
+{
+    width: 800px;
+    height: 500px;
+}
