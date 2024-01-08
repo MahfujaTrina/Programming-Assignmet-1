@@ -95,14 +95,14 @@ h2 {
 
 
 
+
 #party
 {
     width: 1320px;
     margin: 100px auto;
     display: flex;
     height: 600px;
- 
-    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('images/Vectorrr.png');
+    background: url('images/Vectorrr.png');
     background-size: cover;
     background-position: center;
     justify-content: space-around;
@@ -131,12 +131,63 @@ h2 {
     font-weight: 400;
     line-height: auto;
 }
-#party .content-all btn{
-    color: #FFF;
+#party .content-all .btn{
+    color: #ffffff;
+    background-color: #070211;
     text-align: center;
     font-family: Inter;
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    cursor: pointer;
+}
+
+
+
+
+#place
+{
+    width: 1320px;
+    margin: 100px auto;
+    background-color: #efd1d1;
+    height: 600px;
+    text-align: center; 
+}
+#place .place1 
+{
+    padding-top: 150px;
+}
+
+#place .place1 h3 span{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;   
+}
+#place .place1 h3
+{
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;   
+}
+
+#place .place1 .btn1{
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    cursor: pointer;
+  
 }
