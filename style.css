@@ -314,7 +314,7 @@ h2 {
     font-size: 20px;
     font-style: normal;
     font-weight: 400px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 #gift .image
@@ -331,7 +331,7 @@ h2 {
 #gift .image img {
     width: 424px;
     height: 450px;
-    margin-right: 40px; 
+    margin-right: 50px; 
     border-radius: 16px;
     
 }
