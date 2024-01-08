@@ -150,7 +150,7 @@ h2 {
 {
     width: 1320px;
     margin: 100px auto;
-    background-color: #efd1d1;
+    background: rgba(255, 0, 0, 0.05);
     height: 600px;
     text-align: center; 
 }
@@ -190,4 +190,72 @@ h2 {
     background: #F00;
     cursor: pointer;
   
+}
+
+
+
+#subs
+{
+    width: 1320px;
+    margin: 100px auto;
+    background: rgba(255, 0, 0, 0.05);
+    height: 600px;
+    text-align: center; 
+}
+
+#subs .subs-all
+{
+    padding-top: 150px;
+}
+
+#subs .subs-all h1
+{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;  
+}
+
+#subs .subs-all p{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.subs-box {
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 0 auto;
+    width: 648px;
+    height: 72px;
+    overflow: hidden;
+}
+
+#email {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 50px 0 0 50px; 
+    outline: none;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 0 50px 50px 0; 
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
 }
