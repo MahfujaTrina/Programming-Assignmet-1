@@ -281,7 +281,6 @@ h2 {
    
 }
 
-
 #gift .content-gift {
     padding-top: 50px;
 }
@@ -406,4 +405,51 @@ button {
     cursor: pointer;
     transition: background-color 0.3s ease;
 
+}
+
+
+
+
+
+footer {
+    width: 1500px;
+    background-color: #000000;
+    padding: 20px 20px;
+    height: 400px;
+}
+#contact .cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 0;
+   
+}
+#contact .contact1 p, .contact2 p {
+    color: #fff;
+    font-family: Inter;
+    font-size: 20px;
+    margin-left:100px ;
+    margin-right: 150px;
+   
+}
+
+#contact .img1 {
+    display: flex; 
+    justify-content: center; 
+    gap: 20px; 
+    margin: 50px 10px; 
+}
+#contact .below{
+display: flex; 
+justify-content: space-between; 
+align-items: center; 
+margin-left:100px ;
+margin-right: 100px;
+
+}
+.left p, .right p {
+    color: #fff;
+    font-family: Inter;
+    font-size: 20px;
+    padding: 15px;
 }
