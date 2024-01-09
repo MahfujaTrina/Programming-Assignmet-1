@@ -268,6 +268,90 @@ h2 {
 
 
 
+#holiday
+{
+    width: 1320px;
+    margin: 100px auto;  
+    height: 1100px;  
+}
+
+.holiday-sale {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+    padding: 70px 0;
+}
+
+#holiday .holiday-sale h3 {
+    margin: 10px 0; 
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    
+}
+#holiday .holiday-sale h1
+{
+    margin: 10px 0; 
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+}
+#holiday .holiday-sale  h1 span
+{
+    color: #F00;
+    font-family: Merriweather;
+    font-size: 72px;
+}
+#holiday .holiday-sale p
+{
+    margin: 10px 0; 
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.60);
+}
+
+#holiday  .img-box {
+    margin-top: 400px;
+    position: relative; 
+    width: 300px;
+    height: 400px; 
+}
+#holiday .bottom-img {
+    width: 1320px;
+    height: 229px; 
+ 
+}
+
+#holiday  .gift-img {
+    position: absolute; 
+    align-items: center;
+    top: 20px; 
+    left: 50px;
+    top: -90px;
+    transform: translate(0%, -50%); 
+  
+}
+
+#holiday .girl-img {
+    display: inline-block;
+    position: absolute; 
+    align-items: center;
+    top: 20px; 
+    left: 848.199px;
+    top: -216px;
+    transform: translate(10%, -50%); 
+  
+}
+#holiday .dis-img {
+    position: absolute;
+    left: 50%; 
+    top: 50%; 
+    transform: translate(185%, -185%);
+}
+
+
+
 
 
 
@@ -376,7 +460,6 @@ h2 {
     font-weight: 400;
     line-height: 32px;
 }
-
 .subs-box {
     display: flex;
     align-items: center;
@@ -387,7 +470,6 @@ h2 {
     height: 72px;
     overflow: hidden;
 }
-
 #email {
     flex: 1;
     padding: 10px;
@@ -395,10 +477,9 @@ h2 {
     border-radius: 50px 0 0 50px; 
     outline: none;
 }
-
 button {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #ff0505;
     color: #fff;
     border: none;
     border-radius: 0 50px 50px 0; 
@@ -429,7 +510,7 @@ footer {
     font-family: Inter;
     font-size: 20px;
     margin-left:100px ;
-    margin-right: 180px;
+    margin-right: 230px;
    
 }
 
