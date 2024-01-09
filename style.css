@@ -31,7 +31,7 @@ header {
     margin: 0 auto;
 }
 h2 {
-    color: #FFF;
+    color: #fff;
     text-align: center;
     font-family: Merriweather;
     font-size: 72px;
@@ -41,7 +41,7 @@ h2 {
 }
 
 .banner .banner-text h4 {
-    color: #FFF;
+    color: #fff;
     text-align: center;
     font-family: Merriweather;
     font-size: 32px;
@@ -69,7 +69,7 @@ h2 {
 
 #catagory .catagory-hny h3
 {
-    color: #070211;
+    color: #000;
     text-align: center;
     font-family: Inter;
     font-size: 30px;
@@ -110,7 +110,7 @@ h2 {
     margin-left: -80px;
 }
 #party .content-all h1{
-    color: #FFF;
+    color: #fff;
     font-family: Merriweather;
     font-size: 54px;
     font-style: normal; 
@@ -127,15 +127,15 @@ h2 {
     line-height: auto;
 }
 #party .content-all .btn{
-    color: #ffffff;
-    background-color: #070211;
+    color: #fff;
+    background-color: #000;
     text-align: center;
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
     line-height: normal;
     cursor: pointer;
-    background-color: #000;
+
 }
 
 
@@ -166,7 +166,7 @@ h2 {
 }
 #place .place1 h3
 {
-    color: #070211;
+    color: #000;
     font-family: Inter;
     font-size: 32px;
     font-style: normal;
@@ -212,7 +212,7 @@ h2 {
 }
 #coming .coming1 h1
 {
-    color: #070211;
+    color: #000;
     font-family: Merriweather;
     font-size: 48px;
     font-style: normal;
@@ -281,7 +281,7 @@ h2 {
 
 #holiday .holiday-sale h3 {
     margin: 10px 0; 
-    color: #070211;
+    color: #000;
     font-family: Inter;
     font-size: 24px;
     
@@ -289,7 +289,7 @@ h2 {
 #holiday .holiday-sale h1
 {
     margin: 10px 0; 
-    color: #070211;
+    color: #000;
     font-family: Merriweather;
     font-size: 72px;
 }
@@ -347,9 +347,6 @@ h2 {
 
 
 
-
-
-
 #gift {
 
     margin: 100px auto;
@@ -375,7 +372,7 @@ h2 {
 }
 
 #gift .content-gift h1 {
-    color: #070211;
+    color: #000;
     text-align: left;
     font-family: Merriweather;
     font-size: 48px;
@@ -436,7 +433,7 @@ h2 {
 
 #subs .subs-all h1
 {
-    color: #070211;
+    color: #000;
     text-align: center;
     font-family: Merriweather;
     font-size: 48px;
@@ -489,7 +486,7 @@ button {
 
 footer {
     width: 1500px;
-    background-color: #000000;
+    background-color: #000;
     padding: 20px 20px;
     height: 400px;
 }
