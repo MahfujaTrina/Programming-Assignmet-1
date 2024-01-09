@@ -429,7 +429,7 @@ footer {
     font-family: Inter;
     font-size: 20px;
     margin-left:100px ;
-    margin-right: 150px;
+    margin-right: 180px;
    
 }
 
@@ -444,12 +444,12 @@ display: flex;
 justify-content: space-between; 
 align-items: center; 
 margin-left:100px ;
-margin-right: 100px;
+margin-right: 50px;
 
 }
 .left p, .right p {
     color: #fff;
     font-family: Inter;
     font-size: 20px;
-    padding: 15px;
+    padding: 20px;
 }
